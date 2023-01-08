@@ -9,4 +9,4 @@
  Site is here [Profile]
 
 
-[Profile](hhttps://elaborate-bavarois-1f9fcd.netlify.app/)
+[Profile](https://elaborate-bavarois-1f9fcd.netlify.app/)
